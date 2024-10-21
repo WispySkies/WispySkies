@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**WispySkies/WispySkies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### who
+undergraduate, CS B.S. 2025
 
-Here are some ideas to get you started:
+graduate, CS M.Eng. 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+intern, C professional, low level systems wizard
+
+#### about
+- nano user
+- 9+ YOE
+- anything and everything (no front-end)
+- xnu enthusiast
+
+#### current focus, interests
+- operating systems, compilers
+- computer architecture
+- automata theory
+- reverse engineering
+
+#### tooling
+- radare, ida pro
+- xcode, vscode
+- gdb/lldb
+- nano.
+
+#### some private repo projects (for now)
+- simple dhcp client
+- reduced X86 ins. set multi-threaded virtual CPU
+- NN model bot for [generals.io](https://www.generals.io)
+- dylib injector to debug select processes
+- static typed imperative java-like-language compiler
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WispySkies&theme=dark_minimalist)](https://git.io/streak-stats)
