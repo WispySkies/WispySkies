@@ -12,6 +12,7 @@ intern, C professional, low level systems wizard
 - 9+ YOE
 - anything and everything (no front-end)
 - xnu enthusiast
+- minecraft client & server developer
 
 #### current focus, interests
 - operating systems, compilers
